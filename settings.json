@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "join.wrd.kr",
-    "port": 25562,
+    "ip": "gamenode-germany1.fenixhost.net",
+    "port": 1029,
     "version": "",
     "try-creative": false
   },
